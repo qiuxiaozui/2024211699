@@ -1,0 +1,3 @@
+/home/linux/考核/CMakeFiles/exam_main.dir
+/home/linux/考核/CMakeFiles/edit_cache.dir
+/home/linux/考核/CMakeFiles/rebuild_cache.dir
